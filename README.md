@@ -1,6 +1,4 @@
-# Python Digital Image Processing Projects
-
-**Voting-Based Document Image Skew Detection**
+# Voting-Based Document Image Skew Detection
 
 Implementation of document skew detection and correction using multiple methods with voting system, based on academic research paper.
 
