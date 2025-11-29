@@ -1,6 +1,6 @@
-# Voting-Based Document Image Skew Detection
+# Document Skew Corrector
 
-Implementation of document skew detection and correction using multiple methods with voting system, based on academic research paper.
+Smart document skew detection and correction tool using multiple algorithms with voting system, based on academic research paper.
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -24,7 +24,7 @@ Results are combined using a confidence-based voting system to select the most r
 ## Project Structure
 
 ```
-Python-Digital-Image-Processing-Projects/
+document-skew-corrector/
 ├── notebooks/                     # Original Jupyter implementations
 │   ├── PCD-Voting-Based-Documents.ipynb
 │   └── project_digital_image_processing.ipynb
@@ -56,8 +56,8 @@ Output displays detection results from all three methods and final voting decisi
 ## Installation
 
 ```bash
-git clone https://github.com/arezyhs/Python-Digital-Image-Processing-Projects.git
-cd Python-Digital-Image-Processing-Projects
+git clone https://github.com/arezyhs/document-skew-corrector.git
+cd document-skew-corrector
 pip install -r requirements.txt
 ```
 
